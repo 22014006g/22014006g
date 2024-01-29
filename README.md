@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I am Ricky 😄
-### Welcome to your visit 🔭
+### My pleasure of your visit 🔭
 
 <!--
 **22014006g/22014006g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
